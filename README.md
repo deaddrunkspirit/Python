@@ -1,4 +1,4 @@
 # Python
 
 
-This is my Python study projects 
+This repo is for my Python study projects 
